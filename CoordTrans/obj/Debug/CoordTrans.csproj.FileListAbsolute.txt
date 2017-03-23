@@ -1,0 +1,10 @@
+c:\users\useradmin\documents\visual studio 2012\Projects\CoordTrans\CoordTrans\bin\Debug\CoordTrans.dll
+c:\users\useradmin\documents\visual studio 2012\Projects\CoordTrans\CoordTrans\bin\Debug\CoordTrans.pdb
+c:\users\useradmin\documents\visual studio 2012\Projects\CoordTrans\CoordTrans\obj\Debug\CoordTrans.dll
+c:\users\useradmin\documents\visual studio 2012\Projects\CoordTrans\CoordTrans\obj\Debug\CoordTrans.pdb
+c:\users\useradmin\documents\visual studio 2012\Projects\CoordTrans\CoordTrans\obj\Debug\CoordTrans.csprojResolveAssemblyReference.cache
+D:\ProgramData\C#\地面站研制\坐标转换控件\CoordTrans\CoordTrans\bin\Debug\CoordTrans.dll
+D:\ProgramData\C#\地面站研制\坐标转换控件\CoordTrans\CoordTrans\bin\Debug\CoordTrans.pdb
+D:\ProgramData\C#\地面站研制\坐标转换控件\CoordTrans\CoordTrans\obj\Debug\CoordTrans.csprojResolveAssemblyReference.cache
+D:\ProgramData\C#\地面站研制\坐标转换控件\CoordTrans\CoordTrans\obj\Debug\CoordTrans.dll
+D:\ProgramData\C#\地面站研制\坐标转换控件\CoordTrans\CoordTrans\obj\Debug\CoordTrans.pdb
